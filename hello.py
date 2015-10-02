@@ -1,4 +1,4 @@
-#hello 
+#hello - I want to take this line out
 from new_file import another_function
 from helper import greeting
 from third_function import cool
